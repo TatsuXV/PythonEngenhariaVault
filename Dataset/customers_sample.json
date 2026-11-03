@@ -1,0 +1,72 @@
+[
+    {
+        "customer_id": 1,
+        "name": "Customer 1",
+        "email": "user1@example.com",
+        "city": "S\u00e3o Paulo",
+        "created_at": "2022-01-29T00:00:00"
+    },
+    {
+        "customer_id": 2,
+        "name": "Customer 2",
+        "email": "user2@example.com",
+        "city": "Rio de Janeiro",
+        "created_at": "2020-05-22T00:00:00"
+    },
+    {
+        "customer_id": 3,
+        "name": "Customer 3",
+        "email": "user3@example.com",
+        "city": "Salvador",
+        "created_at": "2022-01-28T00:00:00"
+    },
+    {
+        "customer_id": 4,
+        "name": "Customer 4",
+        "email": "user4@example.com",
+        "city": "S\u00e3o Paulo",
+        "created_at": "2021-08-27T00:00:00"
+    },
+    {
+        "customer_id": 5,
+        "name": "Customer 5",
+        "email": "user5@example.com",
+        "city": "S\u00e3o Paulo",
+        "created_at": "2020-04-05T00:00:00"
+    },
+    {
+        "customer_id": 6,
+        "name": "Customer 6",
+        "email": "user6@example.com",
+        "city": "Porto Alegre",
+        "created_at": "2021-09-08T00:00:00"
+    },
+    {
+        "customer_id": 7,
+        "name": "Customer 7",
+        "email": null,
+        "city": "Rio de Janeiro",
+        "created_at": "2022-01-03T00:00:00"
+    },
+    {
+        "customer_id": 8,
+        "name": "Customer 8",
+        "email": "user8@example.com",
+        "city": "Porto Alegre",
+        "created_at": "2021-03-05T00:00:00"
+    },
+    {
+        "customer_id": 9,
+        "name": "Customer 9",
+        "email": "user9@example.com",
+        "city": "Porto Alegre",
+        "created_at": "2020-10-11T00:00:00"
+    },
+    {
+        "customer_id": 10,
+        "name": "Customer 10",
+        "email": "user10@example.com",
+        "city": "S\u00e3o Paulo",
+        "created_at": "2022-02-16T00:00:00"
+    }
+]
