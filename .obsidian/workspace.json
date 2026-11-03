@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Painel/Decisoes.md",
+                "file": "Python/01-Setup-Git/05-Flashcards.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decisoes"
+              "title": "05-Flashcards"
             }
           }
         ]
@@ -199,26 +199,41 @@
   },
   "active": "00b225ee9919322b",
   "lastOpenFiles": [
-    "00-Painel/Instrucoes.md",
-    "00-Painel/Instrucoes.md.tmp.11288.a514b4cb2b39",
-    "00-Painel/Dashboard.md",
-    "00-Painel/Decisoes.md",
-    "SQL/12-Modelagem-Normalizacao/05-Flashcards.md",
-    "SQL/10-Indices-BTree/03-Tickets.md",
-    "SQL/10-Indices-BTree/02-Lab.md",
-    "Python/10-SQLAlchemy-Sessoes/01-Aula.md",
+    "Projeto-Integrador/src/scheduler.py.tmp.15776.1aa220889820",
+    "Projeto-Integrador/src/metrics.py",
+    "Projeto-Integrador/src/metrics.py.tmp.15776.b50b1b3dd7cf",
+    "Projeto-Integrador/src/test_full_pipeline.py",
+    "Projeto-Integrador/src/tasks.py",
+    "Projeto-Integrador/src/tasks.py.tmp.15776.1f0832538bc6",
     "Python/MOC-Python.md",
-    "Python/10-SQLAlchemy-Sessoes",
-    "Python/08-OOP-Encapsulamento/05-Flashcards.md",
-    "Python/08-OOP-Encapsulamento/01-Aula.md",
-    "Python/09-Pandas-Parquet/01-Aula.md",
-    "Python/04-Colecoes/06-Revisao.md",
-    "Python/09-Pandas-Parquet",
-    "00-Painel/Setup-Obsidian.md",
-    "00-Painel/Roadmap-Engenheiro-de-Dados.md",
+    "Projeto-Integrador/src/scheduler.py",
+    "Projeto-Integrador/src/scheduler.py.tmp.15776.4aa1a79b9c01",
+    "Projeto-Integrador/src/test_sprint1.py",
+    "Projeto-Integrador/src/validator.py",
+    "Projeto-Integrador/src/models.py",
+    "Projeto-Integrador/Especificacao-Aurora-Engine.md",
+    "Estruturas-Dados/05-Arvores-Indices/06-Revisao.md",
+    "Estruturas-Dados/05-Arvores-Indices/05-Flashcards.md",
+    "Estruturas-Dados/05-Arvores-Indices/04-Gabarito.md",
+    "Estruturas-Dados/04-SlidingWindow-Stack/06-Revisao.md",
+    "Estruturas-Dados/04-SlidingWindow-Stack/05-Flashcards.md",
+    "Estruturas-Dados/04-SlidingWindow-Stack/04-Gabarito.md",
+    "Estruturas-Dados/03-HashMaps-Sets/06-Revisao.md",
+    "Estruturas-Dados/03-HashMaps-Sets/05-Flashcards.md",
+    "Estruturas-Dados/03-HashMaps-Sets/04-Gabarito.md",
+    "Estruturas-Dados/02-Arrays-TwoPointers/06-Revisao.md",
+    "Estruturas-Dados/02-Arrays-TwoPointers/05-Flashcards.md",
+    "Estruturas-Dados/02-Arrays-TwoPointers/04-Gabarito.md",
+    "Estruturas-Dados/06-Grafos-Linhagem/LeetCode-Patterns.md",
+    "Python/Projeto-Final-Python.md",
+    "Estruturas-Dados/01-Big-O/01-Aula.md",
+    "Python/11-APIs-REST-CRUD/01-Aula.md",
+    "Python/02-Tipos-Conversao-Erros/03-Tickets.md",
     "00-Painel/Regras-Pessoais.md",
-    "00-Painel/Guia-de-Estilo.md",
-    "00-Painel/Glossario-DE.md",
-    "00-Painel/Caderno-de-Erros.md"
+    "00-Painel/Roadmap-Engenheiro-de-Dados.md",
+    "00-Painel/Plano-de-Estudos.md",
+    "00-Painel/Dashboard.md",
+    "Templates/erro.md",
+    "00-Painel/Decisoes.md"
   ]
 }
